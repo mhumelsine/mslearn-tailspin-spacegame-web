@@ -1,3 +1,4 @@
+[![Build Status](https://mhumelsine.visualstudio.com/Space%20Game%20-%20%20web/_apis/build/status/mhumelsine.mslearn-tailspin-spacegame-web%20(1)?branchName=master)](https://mhumelsine.visualstudio.com/Space%20Game%20-%20%20web/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
